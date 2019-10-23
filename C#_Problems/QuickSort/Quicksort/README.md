@@ -1,0 +1,1 @@
+quick down and dirty implementation of the quick sort algorithm which uses a pivot to compare the neighbors of that index to organize one element at a time. sort the first half then copy the second
